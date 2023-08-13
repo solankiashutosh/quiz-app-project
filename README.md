@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-This project can be accessed by the following link -
-https://anu-quizapp.netlify.app/ 
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
